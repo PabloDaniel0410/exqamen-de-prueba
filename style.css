@@ -6,27 +6,13 @@ nav.bloque{
     left: 700px;
    
 }
-p.bloque1{
-    position: relative;
-    background-color: yellow;
-    width: 100px;
-    height: 200px;
-    left: 150px;
-}
-p.bloque2{
-    position: relative;
-    background-color: aquamarine;
-    width: 200px;
-    height:100px;
-    left: 950px;
-    bottom: 120px;
-}
-p.bloque3{
-    position: relative;
 
-}
+
+
 footer{
     background-color: yellow;
+    
+    left: 700px;
 }
 a.valencia{
     background-color: yellow;
